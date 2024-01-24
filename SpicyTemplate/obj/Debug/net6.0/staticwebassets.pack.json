@@ -1,0 +1,1189 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\SpicyTemplate.bundle.scp.css",
+      "PackagePath": "staticwebassets\\SpicyTemplate.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\bootstrap-datepicker.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap-datepicker.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\assets\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\font-awesome.css",
+      "PackagePath": "staticwebassets\\assets\\css\\font-awesome.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\jquery.fancybox.css",
+      "PackagePath": "staticwebassets\\assets\\css\\jquery.fancybox.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\slick.css",
+      "PackagePath": "staticwebassets\\assets\\css\\slick.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\blue-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\blue-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\dark-red-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\dark-red-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\default-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\default-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\green-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\green-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\orange-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\orange-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\pink-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\pink-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\purple-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\purple-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\red-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\red-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\violet-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\violet-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\css\\theme-color\\yellow-theme.css",
+      "PackagePath": "staticwebassets\\assets\\css\\theme-color\\yellow-theme.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\FontAwesome.otf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\FontAwesome.otf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\fontawesome-webfont.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\fontawesome-webfont.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\fontawesome-webfont.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\fontawesome-webfont.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\fontawesome-webfont.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.eot",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.svg",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.ttf",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\fonts\\glyphicons-halflings-regular.woff2",
+      "PackagePath": "staticwebassets\\assets\\fonts\\glyphicons-halflings-regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\about-us\\abtus-img-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us\\abtus-img-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\about-us\\abtus-img-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us\\abtus-img-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\about-us\\abtus-img-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us\\abtus-img-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\about-us\\abtus-img-4.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us\\abtus-img-4.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\about-us\\abtus-img-5.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us\\abtus-img-5.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\about-us\\abtus-img-6.png",
+      "PackagePath": "staticwebassets\\assets\\img\\about-us\\abtus-img-6.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\banner-ads.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\banner-ads.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\blog-banner.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\blog-banner.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\chef\\chef-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\chef\\chef-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\chef\\chef-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\chef\\chef-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\chef\\chef-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\chef\\chef-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\chef\\chef-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\counter-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\counter-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\favicon.ico",
+      "PackagePath": "staticwebassets\\assets\\img\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\big\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\big\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\fancybox_buttons.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\fancybox_buttons.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\fancybox_loading.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\fancybox_loading.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\fancybox_loading@2x.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\fancybox_loading@2x.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\fancybox_overlay.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\fancybox_overlay.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\fancybox_sprite.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\fancybox_sprite.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\fancybox_sprite@2x.png",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\fancybox_sprite@2x.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\gallery\\small\\9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\gallery\\small\\9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\logo.png",
+      "PackagePath": "staticwebassets\\assets\\img\\logo.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-10.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-5.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-6.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-7.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-8.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\menu\\item-9.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\menu\\item-9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\news\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\news\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\news\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\news\\4.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\news\\4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\plus.png",
+      "PackagePath": "staticwebassets\\assets\\img\\plus.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\preloader.gif",
+      "PackagePath": "staticwebassets\\assets\\img\\preloader.gif"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\slider\\1.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\slider\\2.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\slider\\3.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\slider\\3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\testimonial-1.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-1.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\testimonial-2.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-2.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\testimonial-3.png",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-3.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\img\\testimonial-bg.jpg",
+      "PackagePath": "staticwebassets\\assets\\img\\testimonial-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\bootstrap-datepicker.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap-datepicker.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\assets\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\custom.js",
+      "PackagePath": "staticwebassets\\assets\\js\\custom.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\jquery.counterup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.counterup.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\jquery.fancybox.pack.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.fancybox.pack.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\jquery.min.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\jquery.mixitup.js",
+      "PackagePath": "staticwebassets\\assets\\js\\jquery.mixitup.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\slick.js",
+      "PackagePath": "staticwebassets\\assets\\js\\slick.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\js\\waypoints.js",
+      "PackagePath": "staticwebassets\\assets\\js\\waypoints.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\assets\\style.css",
+      "PackagePath": "staticwebassets\\assets\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\css\\maps\\style.css.map",
+      "PackagePath": "staticwebassets\\manage\\css\\maps\\style.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\css\\style.css",
+      "PackagePath": "staticwebassets\\manage\\css\\style.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\documentation\\documentation.html",
+      "PackagePath": "staticwebassets\\manage\\documentation\\documentation.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Black.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Black.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Bold.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Bold.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Light.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Light.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Medium.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Medium.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.eot",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.ttf",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\fonts\\Roboto\\Roboto-Regular.woff2",
+      "PackagePath": "staticwebassets\\manage\\fonts\\Roboto\\Roboto-Regular.woff2"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\auth\\lockscreen-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\lockscreen-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\auth\\login-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\login-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\auth\\register-bg.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\auth\\register-bg.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face1.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face10.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face10.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face11.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face11.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face12.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face12.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face13.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face13.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face14.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face14.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face15.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face15.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face16.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face16.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face17.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face17.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face18.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face18.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face19.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face19.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face2.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face20.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face20.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face21.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face21.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face22.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face22.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face23.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face23.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face24.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face24.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face25.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face25.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face26.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face26.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face27.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face27.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face3.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face4.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face4.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face5.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face5.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face6.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face6.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face7.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face7.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face8.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face8.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\faces\\face9.jpg",
+      "PackagePath": "staticwebassets\\manage\\images\\faces\\face9.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\favicon.ico",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\favicon.png",
+      "PackagePath": "staticwebassets\\manage\\images\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\logo-mini.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo-mini.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\images\\logo.svg",
+      "PackagePath": "staticwebassets\\manage\\images\\logo.svg"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\chart.js",
+      "PackagePath": "staticwebassets\\manage\\js\\chart.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\dashboard.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dashboard.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\data-table.js",
+      "PackagePath": "staticwebassets\\manage\\js\\data-table.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\js\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\documentation.js",
+      "PackagePath": "staticwebassets\\manage\\js\\documentation.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\file-upload.js",
+      "PackagePath": "staticwebassets\\manage\\js\\file-upload.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\hoverable-collapse.js",
+      "PackagePath": "staticwebassets\\manage\\js\\hoverable-collapse.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\jquery.cookie.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.cookie.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\js\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\off-canvas.js",
+      "PackagePath": "staticwebassets\\manage\\js\\off-canvas.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\tabs.js",
+      "PackagePath": "staticwebassets\\manage\\js\\tabs.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\js\\template.js",
+      "PackagePath": "staticwebassets\\manage\\js\\template.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\charts\\chartjs.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\charts\\chartjs.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\forms\\basic_elements.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\forms\\basic_elements.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\icons\\mdi.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\icons\\mdi.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\samples\\lock-screen.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\lock-screen.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\samples\\login-2.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\login-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\samples\\login.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\login.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\samples\\register-2.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\register-2.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\samples\\register.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\samples\\register.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\tables\\basic-table.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\tables\\basic-table.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\ui-features\\buttons.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\ui-features\\buttons.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\pages\\ui-features\\typography.html",
+      "PackagePath": "staticwebassets\\manage\\pages\\ui-features\\typography.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\partials\\_footer.html",
+      "PackagePath": "staticwebassets\\manage\\partials\\_footer.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\partials\\_navbar.html",
+      "PackagePath": "staticwebassets\\manage\\partials\\_navbar.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\partials\\_settings-panel.html",
+      "PackagePath": "staticwebassets\\manage\\partials\\_settings-panel.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\partials\\_sidebar.html",
+      "PackagePath": "staticwebassets\\manage\\partials\\_sidebar.html"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_background.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_background.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_demo.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_demo.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_fonts.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_fonts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_footer.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_footer.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_functions.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_functions.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_layouts.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_layouts.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_misc.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_navbar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_navbar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_reset.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_reset.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_sidebar.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_sidebar.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_typography.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_typography.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_utilities.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_utilities.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_variables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_variables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\_vertical-wrapper.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\_vertical-wrapper.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_badges.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_bootstrap-progress.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_bootstrap-progress.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_cards.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_checkbox-radio.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_checkbox-radio.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_dropdown.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_dropdown.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_forms.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_forms.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_icons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_icons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_lists.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_lists.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\_tables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\_tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\components\\plugin-overrides\\_data-tables.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\components\\plugin-overrides\\_data-tables.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\landing-screens\\_auth.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\landing-screens\\_auth.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\mixins\\_animation.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_animation.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\mixins\\_badges.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_badges.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\mixins\\_blockqoute.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_blockqoute.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\mixins\\_buttons.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_buttons.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\mixins\\_cards.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_cards.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\mixins\\_misc.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\mixins\\_misc.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\scss\\style.scss",
+      "PackagePath": "staticwebassets\\manage\\scss\\style.scss"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\base\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\base\\vendor.bundle.base.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\base\\vendor.bundle.base.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\chart.js\\Chart.min.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\chart.js\\Chart.min.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net-bs4\\dataTables.bootstrap4.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\datatables.net\\jquery.dataTables.js",
+      "PackagePath": "staticwebassets\\manage\\vendors\\datatables.net\\jquery.dataTables.js"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\css\\materialdesignicons.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.eot"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.ttf"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff"
+    },
+    {
+      "Id": "C:\\Users\\ASUS\\Downloads\\SpicyTemplate\\SpicyTemplate\\wwwroot\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2",
+      "PackagePath": "staticwebassets\\manage\\vendors\\mdi\\fonts\\materialdesignicons-webfont.woff2"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.SpicyTemplate.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.SpicyTemplate.props",
+      "PackagePath": "build\\SpicyTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.SpicyTemplate.props",
+      "PackagePath": "buildMultiTargeting\\SpicyTemplate.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.SpicyTemplate.props",
+      "PackagePath": "buildTransitive\\SpicyTemplate.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
